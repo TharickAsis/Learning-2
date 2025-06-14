@@ -1,5 +1,5 @@
 /**
-* Template Name: Kelly
+* Template Name: Tharick Asis
 * Template URL: https://bootstrapmade.com/kelly-free-bootstrap-cv-resume-html-template/
 * Updated: Aug 07 2024 with Bootstrap v5.3.3
 * Author: BootstrapMade.com
@@ -1023,9 +1023,9 @@ section,
 }
 
 /*--------------------------------------------------------------
-# Services Section
+# careerhighlights Section
 --------------------------------------------------------------*/
-.services .service-item {
+.careerhighlights .careerhighlights-item {
   background-color: var(--surface-color);
   box-shadow: 0px 5px 90px 0px rgba(0, 0, 0, 0.1);
   height: 100%;
@@ -1035,7 +1035,7 @@ section,
   border-radius: 5px;
 }
 
-.services .service-item .icon {
+.careerhighlights .careerhighlights-item .icon {
   margin: 0 auto;
   width: 100px;
   height: 100px;
@@ -1046,122 +1046,122 @@ section,
   position: relative;
 }
 
-.services .service-item .icon i {
+.careerhighlights .careerhighlights-item .icon i {
   font-size: 36px;
   transition: 0.5s;
   position: relative;
 }
 
-.services .service-item .icon svg {
+.careerhighlights .careerhighlights-item .icon src {
   position: absolute;
   top: 0;
   left: 0;
 }
 
-.services .service-item .icon svg path {
+.careerhighlights .careerhighlights-item .icon src path {
   transition: 0.5s;
   fill: color-mix(in srgb, var(--default-color), transparent 95%);
 }
 
-.services .service-item h3 {
+.careerhighlights .careerhighlights-item h3 {
   font-weight: 700;
   margin: 10px 0 15px 0;
   font-size: 22px;
 }
 
-.services .service-item p {
+.careerhighlights .careerhighlights-item p {
   line-height: 24px;
   font-size: 14px;
   margin-bottom: 0;
 }
 
-.services .service-item:hover {
+.careerhighlights .careerhighlights-item:hover {
   box-shadow: 0px 5px 35px 0px rgba(0, 0, 0, 0.1);
 }
 
-.services .service-item.item-cyan i {
+.careerhighlights .careerhighlights-item.item-cyan i {
   color: #0dcaf0;
 }
 
-.services .service-item.item-cyan:hover .icon i {
+.careerhighlights .careerhighlights-item.item-cyan:hover .icon i {
   color: #fff;
 }
 
-.services .service-item.item-cyan:hover .icon path {
+.careerhighlights .careerhighlights-item.item-cyan:hover .icon path {
   fill: #0dcaf0;
 }
 
-.services .service-item.item-orange i {
+.careerhighlights .careerhighlights-item.item-orange i {
   color: #fd7e14;
 }
 
-.services .service-item.item-orange:hover .icon i {
+.careerhighlights .careerhighlights-item.item-orange:hover .icon i {
   color: #fff;
 }
 
-.services .service-item.item-orange:hover .icon path {
+.careerhighlights .careerhighlights-item.item-orange:hover .icon path {
   fill: #fd7e14;
 }
 
-.services .service-item.item-teal i {
+.careerhighlights .careerhighlights-item.item-teal i {
   color: #20c997;
 }
 
-.services .service-item.item-teal:hover .icon i {
+.careerhighlights .careerhighlights-item.item-teal:hover .icon i {
   color: #fff;
 }
 
-.services .service-item.item-teal:hover .icon path {
+.careerhighlights .careerhighlights-item.item-teal:hover .icon path {
   fill: #20c997;
 }
 
-.services .service-item.item-red i {
+.careerhighlights .careerhighlights-item.item-red i {
   color: #df1529;
 }
 
-.services .service-item.item-red:hover .icon i {
+.careerhighlights .careerhighlights-item.item-red:hover .icon i {
   color: #fff;
 }
 
-.services .service-item.item-red:hover .icon path {
+.careerhighlights .careerhighlights-item.item-red:hover .icon path {
   fill: #df1529;
 }
 
-.services .service-item.item-indigo i {
+.careerhighlights .careerhighlights-item.item-indigo i {
   color: #6610f2;
 }
 
-.services .service-item.item-indigo:hover .icon i {
+.careerhighlights .careerhighlights-item.item-indigo:hover .icon i {
   color: #fff;
 }
 
-.services .service-item.item-indigo:hover .icon path {
+.careerhighlights .careerhighlights-item.item-indigo:hover .icon path {
   fill: #6610f2;
 }
 
-.services .service-item.item-pink i {
+.careerhighlights .careerhighlights-item.item-pink i {
   color: #f3268c;
 }
 
-.services .service-item.item-pink:hover .icon i {
+.careerhighlights .careerhighlights-item.item-pink:hover .icon i {
   color: #fff;
 }
 
-.services .service-item.item-pink:hover .icon path {
+.careerhighlights .careerhighlights-item.item-pink:hover .icon path {
   fill: #f3268c;
 }
 
 /*--------------------------------------------------------------
-# Portfolio Section
+# Academic&research Section
 --------------------------------------------------------------*/
-.portfolio .portfolio-filters {
+.Academic&research .Academic&research-filters {
   padding: 0;
   margin: 0 auto 20px auto;
   list-style: none;
   text-align: center;
 }
 
-.portfolio .portfolio-filters li {
+.Academic&research .Academic&research-filters li {
   cursor: pointer;
   display: inline-block;
   padding: 8px 20px 10px 20px;
@@ -1175,33 +1175,33 @@ section,
   font-family: var(--heading-font);
 }
 
-.portfolio .portfolio-filters li:hover,
-.portfolio .portfolio-filters li.filter-active {
+.Academic&research .Academic&research-filters li:hover,
+.Academic&research .Academic&research-filters li.filter-active {
   color: var(--contrast-color);
   background-color: var(--accent-color);
 }
 
-.portfolio .portfolio-filters li:first-child {
+.Academic&research .Academic&research-filters li:first-child {
   margin-left: 0;
 }
 
-.portfolio .portfolio-filters li:last-child {
+.Academic&research .Academic&research-filters li:last-child {
   margin-right: 0;
 }
 
 @media (max-width: 575px) {
-  .portfolio .portfolio-filters li {
+  .Academic&research .Academic&research-filters li {
     font-size: 14px;
     margin: 0 0 10px 0;
   }
 }
 
-.portfolio .portfolio-item {
+.Academic&research .Academic&research-item {
   position: relative;
   overflow: hidden;
 }
 
-.portfolio .portfolio-item .portfolio-info {
+.Academic&research .Academic&research-item .Academic&research-info {
   opacity: 0;
   position: absolute;
   left: 12px;
@@ -1213,21 +1213,21 @@ section,
   padding: 15px;
 }
 
-.portfolio .portfolio-item .portfolio-info h4 {
+.Academic&research .Academic&research-item .Academic&research-info h4 {
   font-size: 18px;
   font-weight: 600;
   padding-right: 50px;
 }
 
-.portfolio .portfolio-item .portfolio-info p {
+.Academic&research .Academic&research-item .Academic&research-info p {
   color: color-mix(in srgb, var(--default-color), transparent 30%);
   font-size: 14px;
   margin-bottom: 0;
   padding-right: 50px;
 }
 
-.portfolio .portfolio-item .portfolio-info .preview-link,
-.portfolio .portfolio-item .portfolio-info .details-link {
+.Academic&research .Academic&research-item .Academic&research-info .preview-link,
+.Academic&research .Academic&research-item .Academic&research-info .details-link {
   position: absolute;
   right: 50px;
   font-size: 24px;
@@ -1237,51 +1237,51 @@ section,
   line-height: 0;
 }
 
-.portfolio .portfolio-item .portfolio-info .preview-link:hover,
-.portfolio .portfolio-item .portfolio-info .details-link:hover {
+.Academic&research .Academic&research-item .Academic&research-info .preview-link:hover,
+.Academic&research .Academic&research-item .Academic&research-info .details-link:hover {
   color: var(--accent-color);
 }
 
-.portfolio .portfolio-item .portfolio-info .details-link {
+.Academic&research .Academic&research-item .Academic&research-info .details-link {
   right: 14px;
   font-size: 28px;
 }
 
-.portfolio .portfolio-item:hover .portfolio-info {
+.Academic&research .Academic&research-item:hover .Academic&research-info {
   opacity: 1;
   bottom: 0;
 }
 
 /*--------------------------------------------------------------
-# Portfolio Details Section
+# Academic&research Details Section
 --------------------------------------------------------------*/
-.portfolio-details .portfolio-details-slider img {
+.Academic&research-details .Academic&research-details-slider img {
   width: 100%;
 }
 
-.portfolio-details .portfolio-details-slider .swiper-pagination {
+.Academic&research-details .Academic&research-details-slider .swiper-pagination {
   margin-top: 20px;
   position: relative;
 }
 
-.portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet {
+.Academic&research-details .Academic&research-details-slider .swiper-pagination .swiper-pagination-bullet {
   width: 12px;
   height: 12px;
   background-color: color-mix(in srgb, var(--default-color), transparent 85%);
   opacity: 1;
 }
 
-.portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet-active {
+.portfoAcademic&researchlio-details .Academic&research-details-slider .swiper-pagination .swiper-pagination-bullet-active {
   background-color: var(--accent-color);
 }
 
-.portfolio-details .portfolio-info {
+.Academic&research-details .Academic&research-info {
   background-color: var(--surface-color);
   padding: 30px;
   box-shadow: 0px 0 30px rgba(0, 0, 0, 0.1);
 }
 
-.portfolio-details .portfolio-info h3 {
+.Academic&research-details .Academic&research-info h3 {
   font-size: 22px;
   font-weight: 700;
   margin-bottom: 20px;
@@ -1289,27 +1289,27 @@ section,
   border-bottom: 1px solid color-mix(in srgb, var(--default-color), transparent 85%);
 }
 
-.portfolio-details .portfolio-info ul {
+.Academic&research-details .Academic&research-info ul {
   list-style: none;
   padding: 0;
   font-size: 15px;
 }
 
-.portfolio-details .portfolio-info ul li+li {
+.Academic&research-details .Academic&research-info ul li+li {
   margin-top: 10px;
 }
 
-.portfolio-details .portfolio-description {
+.Academic&research-details .Academic&research-description {
   padding-top: 30px;
 }
 
-.portfolio-details .portfolio-description h2 {
+.Academic&research-details .Academic&research-description h2 {
   font-size: 26px;
   font-weight: 700;
   margin-bottom: 20px;
 }
 
-.portfolio-details .portfolio-description p {
+.Academic&research-details .Academic&research-description p {
   padding: 0;
   color: color-mix(in srgb, var(--default-color), transparent 30%);
 }
